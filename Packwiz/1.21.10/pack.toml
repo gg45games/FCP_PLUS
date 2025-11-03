@@ -1,0 +1,13 @@
+name = "FCP+"
+author = "GG45(gabriel)"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "69e569885e21d2986b4f167fef558731cb61030c54f188f736449b78bfe264b4"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.10"
