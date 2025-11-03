@@ -1,12 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".docker-compose.yml.kate-swp"
-hash = "ace7c7824a998cf5b607847296ed84849f4fdad4d540e46686edfb9d5f63f66f"
+file = "docker-compose.yml"
+hash = "f41273353705b1f6975150591c97051a6fc1f08ba343c7c36ffd59106ecb66d2"
 
 [[files]]
-file = "docker-compose.yml"
-hash = "b5a61df1811db586647fdabcf7ef18d5ba002da373bb7b331fadb1e29a1129c7"
+file = "mods/additional-structures.pw.toml"
+hash = "92d14d6894accfa0235501625b7170ec9414131e911696b77da7d7d874b147e9"
+metafile = true
 
 [[files]]
 file = "mods/almanac-lib.pw.toml"
@@ -26,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
 metafile = true
 
 [[files]]
@@ -49,6 +55,21 @@ hash = "c9127c8a26671e16730352e42f67894eafe69ee54d0640f05d45f95502b817e2"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "fe04f0d6db074548db155c4863bd812b40b95dc3a3bc041d2f25d244674cdd59"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "f80771c373ac5f054b7c7e198c680cd7fff0fcc40d5753517b4b0acefa1c5729"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "1128e1194453ee08fd9cad27630786f0bc18d99fb3b5e1e5f87714d7c1fe489a"
+metafile = true
+
+[[files]]
 file = "mods/easyauth.pw.toml"
 hash = "55eb77cf033ffd79fa41d06d87185c0fa3ff2c1b0f5605ad64aa52e0613a44bc"
 metafile = true
@@ -56,6 +77,16 @@ metafile = true
 [[files]]
 file = "mods/entity-view-distance.pw.toml"
 hash = "00de73f44c85bbe43476ba1e19098a6d0e2180bec7bdbf8199ff482e21a3a8cc"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "1fc15d0ee6913ae274b146a8bfcb0f0992b35126583b3b9dd6811820c1466d67"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
 metafile = true
 
 [[files]]
@@ -84,6 +115,21 @@ hash = "9a8c273d0efcf679d04d77ab37521c05978caff642a6c2b867d2fa2cdc8b168e"
 metafile = true
 
 [[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "cfdef44464ccf6c3a9b0fa7a48bbbfa40049765c01c3aaf225fddd167cd5eeec"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "c52b32923563ae28647a9429c5acb66c74d76c6f6ae4ffa8d08fc75626cc0115"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "0a58d2743fe91e8fbeb53b96f3c45a52a0fd2a69ffa99977f77834aa7c5b0cff"
+metafile = true
+
+[[files]]
 file = "mods/fuji.pw.toml"
 hash = "593e4347238a1f38c97a7b28c0b1b48b358a43ba5be2282dfa41b6cf66debb48"
 metafile = true
@@ -99,8 +145,18 @@ hash = "2b6bf4bb986325e04b07089ffcbbcc814fe503ddf45dd126b336a32b170eacd0"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "67e8124a80cfa3257826ca55bcf02e78a803c0fa91ddea815418d7255ef882a3"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "251f87892329f54add949ca4291a3676f6af1f741c2462477fa8f21c0b00fa40"
 metafile = true
 
 [[files]]
@@ -111,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/luckperms.pw.toml"
 hash = "78eb7a4883effdbab78ff513fba684e62783bad2ef54b1aeef0fe584af490c67"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "ceadd493611f2ba6e1fd0d323db2200d7dfe99930631c3eda91279e7493e609e"
 metafile = true
 
 [[files]]
@@ -129,6 +190,16 @@ hash = "d788235233cd7bb10444760f354161d730ce1c504976cfdf91bd26fcd05c9e26"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6563af8f8937ede110303ee1437499892061d824182139a92e7a1fd6eac168d7"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "eb2a2a775e6c92eeb650160b31b3957a87c28d5a2305820f108cef35ef813866"
+metafile = true
+
+[[files]]
 file = "mods/seedguard.pw.toml"
 hash = "d574929c48ee577c63e3dd7629b2f68a26f396d36af96306022edf793e4b7195"
 metafile = true
@@ -141,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/sessility.pw.toml"
 hash = "f9bdec68d0fbc4d4e3ed1d8164a1451dd112b34954fc679bfab9b382ba1c5c25"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "493a76add332abb0dfa23004300ea2ae77a8448960f603519c1db5ab4d769413"
 metafile = true
 
 [[files]]
@@ -159,6 +235,16 @@ hash = "2520b331c2b0eb582b448c4ebf1a73d66d42184acc2d74912baef4140e05ee9b"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "187174a5f6a8a8f49fcc3baae7bf8c673829bac1a4bd1023ce0723ab17fdf1d7"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "e9302f39fb02c0a1f88893785d54b08e41a17c9fb3e39c29c3794e7ed7f86bad"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-permissions.pw.toml"
 hash = "dd27fa8950077843a03363fd36ef344bb11ca9759c44a4f3f281678cb5da688e"
 metafile = true
@@ -169,6 +255,21 @@ hash = "79a938585866f8f74e569d39fb968b5bb9300634b79f537149f7494eb427d940"
 metafile = true
 
 [[files]]
+file = "mods/veinminer-enchantment.pw.toml"
+hash = "56d354ec654763cc6c6c1c81a0110a6267a28eb8beac6eecddca3810c4de2dbd"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "5cb9a93032a75644cdf442b05a29e0616c76df503ee6b3dd3ab367ad1a04ff60"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "90df8d95fcd836373dd1b26dd8f3fbc6ca8ac55f797e09562796aa0aeb0576c0"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "dba564c761870715c46e527e182ece9d0c50ae96c8c4e3af3f2b567e2816565d"
 metafile = true
