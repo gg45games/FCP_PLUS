@@ -1,8 +1,560 @@
 hash-format = "sha256"
 
 [[files]]
-file = "docker-compose.yml"
-hash = "f41273353705b1f6975150591c97051a6fc1f08ba343c7c36ffd59106ecb66d2"
+file = "compose.yml"
+hash = "ae23280075c95e2a90a5b538db584922d9fd15c34d9cc2c2b3e74406fc7f946a"
+
+[[files]]
+file = "config/EasyAuth/extended.conf"
+hash = "9e7d0bf997c396baba88dc1ed71eb849e805bbd2dbf226eb1c33660804b5b37d"
+
+[[files]]
+file = "config/EasyAuth/main.conf"
+hash = "9e80f8ff3ad549f2e71e3e0eda6910bf5d03bc017ff27a892b75d231ea047825"
+
+[[files]]
+file = "config/EasyAuth/storage.conf"
+hash = "f48492909742061009b84298893d2c6dde55301ec3447da24bc52d4e9e89a1cf"
+
+[[files]]
+file = "config/EasyAuth/technical.conf"
+hash = "ad1e69d75a75503779ac12af9ec7462c4fdfe2f8087504b1b08fe9f108338471"
+
+[[files]]
+file = "config/EasyAuth/translation.conf"
+hash = "4d06ea53d4a6699060e7c15e95b4a9996bd6801bb084034a79a84a76aee42b1f"
+
+[[files]]
+file = "config/EssentialCommands.properties"
+hash = "966ef4788cbccb9cb14bd935931fdeb422f671b00cd8dab749d808c1721132de"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/client_jar.hash"
+hash = "e607f5ce1d61a192cc3328ad240d7154c2711f3fcaaf6acbffbc2c8ca4f54be1"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/slim/alex.png"
+hash = "99391ed9dff9581ec88daf23b9b028adc9ac91f52889edcff1c982d0923c0cff"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/slim/ari.png"
+hash = "448bda6817fa3894632cc11751f3f080dde917b2ad1679ed106f107984289560"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/slim/efe.png"
+hash = "fa3569f027caadcc17efbb1b46f8d0f2830c408cafc774e1f3bf573f4bb7c419"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/slim/kai.png"
+hash = "00b90f287beba1068032ee973f8b890394a6999f9f1b6ce5db7e58ca47384760"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/slim/makena.png"
+hash = "197307bf92fb9d3adb5808593c88e48ab152335cc4276db4127ccb82d010ca68"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/slim/noor.png"
+hash = "09f9306ed924b1adbb97837d4ca8d09d7057731a26cdecd2076bc8601f752589"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/slim/steve.png"
+hash = "1ff866cb8418b18d0052089cff27dfb90f8fc9727a8cea83e0e876819b58ce19"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/slim/sunny.png"
+hash = "32ff3be1394115bbbbcb3b6aea20f0cd496338d31a5341ef73cf1df6bc963dbe"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/slim/zuri.png"
+hash = "4f9333c958c31268fc813db3b424fb1354d81085ba0be6b112c809390847e350"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/wide/alex.png"
+hash = "c8d78144f653a903d5b4118b94bd808c5522edc300bca3b674a2ffbb3a388dfd"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/wide/ari.png"
+hash = "b77bfca4ff607c1d72ad26867549fb7f0a9317c0811424a189d72cd0d47ca32a"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/wide/efe.png"
+hash = "6e2e2d07136d057997b62ed5a256a577a7678d6f0ef05a7a402cb5096a11143d"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/wide/kai.png"
+hash = "f5b3af3440257759f074ae07b630a65195d7222241dc7af1189b954cf7fc3f76"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/wide/makena.png"
+hash = "e58a664738d0073c348265052ab60a0ebf15f271a1b6aaeec0e47c027bc7cd0e"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/wide/noor.png"
+hash = "66343b7a4d6a63af1abed71437728794a9c5d5fc666a10a3cce666e5759ac3ff"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/wide/steve.png"
+hash = "06628f9cef88520da742ab280a01677ce17c99717f964ed89ed791673121094c"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/wide/sunny.png"
+hash = "c1cf854c5c244a9f07e84b2faba067c20d3cb1156899ca43f85f0efc9a954270"
+
+[[files]]
+file = "config/Geyser-Fabric/cache/default_player_skins/wide/zuri.png"
+hash = "adc7f1b62cdf791096493d14c3edc8b36fd940e4bf10093fc48f461b0f0a3dba"
+
+[[files]]
+file = "config/Geyser-Fabric/config.yml"
+hash = "0bdc4d10a88e47a5dad4be418c2f2ea049f550653517c56fa9c0f0f6c81e6b19"
+
+[[files]]
+file = "config/Geyser-Fabric/custom-skulls.yml"
+hash = "aa24c229554aae576618944e30bba3e0c648eee98c8b47bd2255e3780fe87898"
+
+[[files]]
+file = "config/Geyser-Fabric/locales/en_us.json"
+hash = "d7bee66c4d129fa0bdc274ae6d979d10e8bbc782447c3c257a3758276427f7a8"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/Veinminer/blocks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/Veinminer/groups.json"
+hash = "5ac0560aae1f266d897ceec6ad08b79ca2d5d22d95efd17377c8026ac246048f"
+
+[[files]]
+file = "config/Veinminer/settings.json"
+hash = "74a35fe70a4359bd3a832d5516239d0377c51555297c4f4347ca13fd10de7a76"
+
+[[files]]
+file = "config/almanac-nbtFix.json5"
+hash = "c5c31e999c8252566f58c4d36b716a9fb674cd88021b3ffe9996c7e77d2b4c44"
+
+[[files]]
+file = "config/antixray.toml"
+hash = "6b365812291fb635b7e2dea096f52bed88e1d7ada9656bdda1dbc2ec759a3e94"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "a42f98de1a4d3f5f8bb60fed53696b12ddeaa8838d1566933ac193160acb9455"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/cristellib/additionalstructures/structure_placement_config.json5"
+hash = "d1dea22826a8c3e553ba351f2c8cb0bf59197037937a25cf5f4f49a63e2156e5"
+
+[[files]]
+file = "config/cristellib/additionalstructures/structure_toggle_config.json5"
+hash = "f41a6daecbdc1124bb18bcf3eb872167c581a832839dbae1bbcb0833ccd1c34a"
+
+[[files]]
+file = "config/cristellib/auto_config_settings.json5"
+hash = "799173b66094a241753f41af672ddf22921ca206cb88f1966d31960c89c3f99a"
+
+[[files]]
+file = "config/cristellib/built_in_packs.json5"
+hash = "728c327582202df0bebd09193fe11a4d9ecd0dbd44c0d3b9350c06f3faa5e70d"
+
+[[files]]
+file = "config/cristellib/dungeons_arise_seven_seas/structure_placement_config.json5"
+hash = "b89dee832c54a717878e2e12e4a1a1395733f7420ee37b1848fef0254eb6d0e9"
+
+[[files]]
+file = "config/cristellib/dungeons_arise_seven_seas/structure_toggle_config.json5"
+hash = "bff8fcfe7cb4d87e0c7f05b3da5bcecab4b5eeca2414b742166585cda6166bf8"
+
+[[files]]
+file = "config/cristellib/explorify/structure_placement_config.json5"
+hash = "a246410de17822748dbb20b11773c9fab60484bdc5fb924c0785a39c486f2a92"
+
+[[files]]
+file = "config/cristellib/explorify/structure_toggle_config.json5"
+hash = "91937c0505d28dd9d9d41f11c8b0df04c8b106fac3746d72087a959f81a18e1e"
+
+[[files]]
+file = "config/cristellib/formationsnether/structure_placement_config.json5"
+hash = "5a502a3ab8eb082d6ebab6306495ecafb91435a670448a28c112aa8543746bc4"
+
+[[files]]
+file = "config/cristellib/formationsnether/structure_toggle_config.json5"
+hash = "508f529fe99840c1b17de1e2f0d5d334a8162443a2e88aa01690611ed1a248ea"
+
+[[files]]
+file = "config/cristellib/formationsoverworld/structure_placement_config.json5"
+hash = "919a1b287f472d4b3d3f07fc2484f9a1c836dd4cf2a47468220134909dcbc799"
+
+[[files]]
+file = "config/cristellib/formationsoverworld/structure_toggle_config.json5"
+hash = "841250273fb8579bbbfe2c30f6148ae20cf0f379ae41d07b12508aa471487398"
+
+[[files]]
+file = "config/cristellib/incendium/structure_placement_config.json5"
+hash = "86d418f04cb5e14edb95568833f9ce421b50493a9445b0fa018c74475b48e701"
+
+[[files]]
+file = "config/cristellib/incendium/structure_toggle_config.json5"
+hash = "ce93df2b6e4d3a0ed2e456e83c08fc04bae832400e32e0639d957da5e46987b5"
+
+[[files]]
+file = "config/cristellib/mns/structure_placement_config.json5"
+hash = "49a8499d4119fb65c7090328bd6cd5552f0a8fe5c8246c1c46c83f3a3d31c156"
+
+[[files]]
+file = "config/cristellib/mns/structure_toggle_config.json5"
+hash = "ab0f86d7aaee49772fc54db3dfd41bce44eaa15047534205c5ba7a83606fa002"
+
+[[files]]
+file = "config/cristellib/mr_dungeons_andtaverns/structure_placement_config.json5"
+hash = "55d12bfd744dbd87cd362197e79a4c30e4a465cf1b66c067e54bd04ec73b788c"
+
+[[files]]
+file = "config/cristellib/mr_dungeons_andtaverns/structure_toggle_config.json5"
+hash = "2982323404833cbde77c36d8db63a58fe64ee68992499556cb2b85db03080ed2"
+
+[[files]]
+file = "config/cristellib/mvs/structure_placement_config.json5"
+hash = "3ccda697462ffe26005145ee3913941cbc035bdc44744dc9f26ef5a15c2f1015"
+
+[[files]]
+file = "config/cristellib/mvs/structure_toggle_config.json5"
+hash = "d166d97e31dfd2d3f88c9ed1e2674ee7669eae7a70cf4631fd685b386b31e8f1"
+
+[[files]]
+file = "config/cristellib/repurposed_structures/structure_placement_config.json5"
+hash = "97d2e6e5a0c469cfa39633fb3c342a1fdcc0d10215acadbbc1cdf1e23917e33a"
+
+[[files]]
+file = "config/cristellib/repurposed_structures/structure_toggle_config.json5"
+hash = "f3588cdfe77994e838692839567968f569312d77488d8e239ae2ab91c456a913"
+
+[[files]]
+file = "config/cristellib/structory/structure_placement_config.json5"
+hash = "0eab3d6c98dd4eedbe4dce5a4fc4596d1d060876bc20bbe60e069ab5ae61df0c"
+
+[[files]]
+file = "config/cristellib/structory/structure_toggle_config.json5"
+hash = "a33903592feb8a1e1fd0a4fe0adf4ef72efbb4832330c9500db0fb2910abd287"
+
+[[files]]
+file = "config/cropsloverain.toml"
+hash = "e466ea969cdb21a3c9caa0986e168270140374223bc99c5e15a18cbb4c67212f"
+
+[[files]]
+file = "config/entity-view-distance.json"
+hash = "794d204bd0f2d682eafd5e086e777aa1277370a9b9b229ee006b30d737472cb4"
+
+[[files]]
+file = "config/essentialcommands/rules.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/floodgate/config.yml"
+hash = "f894d9fc9195db462add3ffa6ab0473b567c5cd54e6d89baf46b0b430443efb6"
+
+[[files]]
+file = "config/floodgate/key.pem"
+hash = "0741a2900beafd1fb27ec6057739e772dabfa66f86da3a56368c780524a7ecaf"
+
+[[files]]
+file = "config/forgeconfigapiport.toml"
+hash = "647ad92f7bdc5e0ccef37d6e7386b08f2a19715b77742202f2f9048fb14e0dec"
+
+[[files]]
+file = "config/fuji/backup/2025-11-04 04-36-10.zip"
+hash = "9bf2a7a46397057c7aa3fa99b86f74cd3d2fbd5a0eccc2b0579c052d26ce67ac"
+
+[[files]]
+file = "config/fuji/cache/game_profile.json"
+hash = "caf6dc4397227fb3c196e33710411f2f3d5df9224345464fc31688422e65571e"
+
+[[files]]
+file = "config/fuji/config.json"
+hash = "b1b4d4ca538b2192a6b60a102f1c582f1fd160cfab7b8b86c1db95f262a239ac"
+
+[[files]]
+file = "config/fuji/permission.json"
+hash = "c6acaf976981dd85f7bbd62d4a7d167087d8bf71f3805d23f524c282f6e60891"
+
+[[files]]
+file = "config/leavesbegone-server.toml"
+hash = "a9fed9f65d7c8216c478dd471c01c17c1af78c5c77caf17d1f48e5899b960ec8"
+
+[[files]]
+file = "config/letmedespawn.json"
+hash = "6af411644e22ede34383135509cb96b2a636d8ed45494b28976514a95537105e"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/lithostitched.json"
+hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
+
+[[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "e78ae10450e5d0386f1e529f13e5895be549b5635f765b4af696050bb91a7c01"
+
+[[files]]
+file = "config/luckperms/translations/repository/ar_SA.properties"
+hash = "bf8293312a11f0b2cd298a81fe17a51ca72c251b604d581a372c45c7360504eb"
+
+[[files]]
+file = "config/luckperms/translations/repository/bg_BG.properties"
+hash = "06d5a4506b42a80e4bbf4d61801a2166613a441eb9418aa73a3c84e13be3c74a"
+
+[[files]]
+file = "config/luckperms/translations/repository/cs_CZ.properties"
+hash = "c3706f0c9b8dcc15b839dbc28c30abbaa549d429508ce2788d0eb2ed189c6a89"
+
+[[files]]
+file = "config/luckperms/translations/repository/da_DK.properties"
+hash = "25df30b219ddf973f39741ccfb112a3bbcb23b19317f854742c204ba3cd14b66"
+
+[[files]]
+file = "config/luckperms/translations/repository/de_DE.properties"
+hash = "181b26352e6d8731b6d6a96dc188d6283d21e0731209b8e9e0b6fb3f5c455969"
+
+[[files]]
+file = "config/luckperms/translations/repository/el_GR.properties"
+hash = "500a58cccf9935cf0014f9d0c6c738aee2fb7ada382942620c71a12fafe9ee84"
+
+[[files]]
+file = "config/luckperms/translations/repository/en_PT.properties"
+hash = "b4e30ccde47e435249520b1edcab5c771b5263662f1b61caf6fb8d8ef090d343"
+
+[[files]]
+file = "config/luckperms/translations/repository/es_ES.properties"
+hash = "0e88d189b5d075036d4c7d39baf2dc7debec4bc11bea7b524a43e2a84fdef8e0"
+
+[[files]]
+file = "config/luckperms/translations/repository/fa_IR.properties"
+hash = "830623f0017d2bbc92a4eab17fb2c89e8f8c63213da92864c715a04c6af5ffc5"
+
+[[files]]
+file = "config/luckperms/translations/repository/fi_FI.properties"
+hash = "a7b6f2ea67bb2ff88708eeb1bfc6ff0e2bf0ab5e918e4a787f05f648d195660d"
+
+[[files]]
+file = "config/luckperms/translations/repository/fil_PH.properties"
+hash = "b7d79b5b192664855fbf3cdedf55b1a93a6a7b7dee17eeee28cbf74000852ce2"
+
+[[files]]
+file = "config/luckperms/translations/repository/fr_FR.properties"
+hash = "78bec8b2294f9fd2a6a958d7153057064bc7f6bf99aeae4889d73bb844ab30f0"
+
+[[files]]
+file = "config/luckperms/translations/repository/he_IL.properties"
+hash = "0b3836e270dcae860f7851ca511c02ba231ad422c0d35b42499bdc657126c1f0"
+
+[[files]]
+file = "config/luckperms/translations/repository/hi_IN.properties"
+hash = "e2f23be431a0ba843bd02b1c1acd7ecc8c227170619a80d3faad08c7040f7292"
+
+[[files]]
+file = "config/luckperms/translations/repository/hu_HU.properties"
+hash = "6b26d964931d5be3890bbea50ed7d8ef73a6bed172bb64422bf6349e08d90320"
+
+[[files]]
+file = "config/luckperms/translations/repository/id_ID.properties"
+hash = "1abc861f060461b73a018006c33edbab54a5d19be5ee178f86fee50d42dca0a3"
+
+[[files]]
+file = "config/luckperms/translations/repository/it_IT.properties"
+hash = "73ba306112d85a6e88f3d689b0af7de67ee7397748965f49a7970c6b1d311913"
+
+[[files]]
+file = "config/luckperms/translations/repository/ja_JP.properties"
+hash = "b9e839bae812811dc3f44ff3d8086f0a86ad45e56223fd6e88e7723ffa7c1822"
+
+[[files]]
+file = "config/luckperms/translations/repository/ka_GE.properties"
+hash = "2c0ad2e6de804c6ae13b4e5fb7c0c387a16e04710fc5a87f02e0aa09f4ba7383"
+
+[[files]]
+file = "config/luckperms/translations/repository/ko_KR.properties"
+hash = "35051dd4dab93215a6d623af11f7c273169617157ab260baa27addd69f6e1651"
+
+[[files]]
+file = "config/luckperms/translations/repository/nl_NL.properties"
+hash = "7674ff756a3c3aae7c450dd88d3bf5e446757bc1dc6820edf77f5645927fe080"
+
+[[files]]
+file = "config/luckperms/translations/repository/no_NO.properties"
+hash = "902c97ce770205af9a0ef3cb04927b187a607a4cbd0bf460457065ca0e62f949"
+
+[[files]]
+file = "config/luckperms/translations/repository/pl_PL.properties"
+hash = "831f701155a953fa14c1967b84e30893eeacf4215af0cc7c4170e1c84cf66efe"
+
+[[files]]
+file = "config/luckperms/translations/repository/pt_BR.properties"
+hash = "4ee4f3669e790dec7ecf62e2b6d0350cdd2fd41838925c7c7edf0746e588b755"
+
+[[files]]
+file = "config/luckperms/translations/repository/ro_RO.properties"
+hash = "b0954c2b060b164d55eb5a143277dfd00cfd47ca3d7e2fe1f1b29e17b1cd914e"
+
+[[files]]
+file = "config/luckperms/translations/repository/ru_RU.properties"
+hash = "10f4fe2028fefc01b436bd37b3d3dc1ebd231e86c234559f2f7cfcba61d80daf"
+
+[[files]]
+file = "config/luckperms/translations/repository/sk_SK.properties"
+hash = "42162c5ec694fc09c55b1ded869a1eae7aa35d5a48f8952ed6f34635806c6573"
+
+[[files]]
+file = "config/luckperms/translations/repository/sr_CS.properties"
+hash = "912c0aff4bb5bf77bf907c6ccb072fae19948311d8cb8f4f5d2f97c94adb5533"
+
+[[files]]
+file = "config/luckperms/translations/repository/status.json"
+hash = "d7151fa0b38edc8df2ad7dd3843584598b1d90ad167348b45588d5caa0031cf4"
+
+[[files]]
+file = "config/luckperms/translations/repository/sv_SE.properties"
+hash = "4a0d1b26ef14040333044bfdec7ca6c32d81251c2f0d3b8006d409dac392f454"
+
+[[files]]
+file = "config/luckperms/translations/repository/tr_TR.properties"
+hash = "7e089aa50240afd2674862bb7529265d050f00e3ac651e10b516e0931fb83f51"
+
+[[files]]
+file = "config/luckperms/translations/repository/uk_UA.properties"
+hash = "1f9ecde9e332484f602bdba194fd46c8c400ee0997dc514f8e2b009bfca63a2b"
+
+[[files]]
+file = "config/luckperms/translations/repository/vi_VN.properties"
+hash = "79c28807f8b0c5ade7aa50aa8ace0d4bc536ea21b605f45d0fa20daeec10955b"
+
+[[files]]
+file = "config/luckperms/translations/repository/zh_CN.properties"
+hash = "749818ed7785e91888857d69c198f783d8d23a5d3853ed11d9e4faea41d3e538"
+
+[[files]]
+file = "config/luckperms/translations/repository/zh_TW.properties"
+hash = "7d348067f10d8ca73262768709f30dde160f0fb1c72d2fe31076557fc9cec465"
+
+[[files]]
+file = "config/notica/config.json"
+hash = "af2bca042e7fe572ae7bec45e37a1fdf2464f5ae08deb1d618cc3a3de1a2b9c1"
+
+[[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "a51d612ff681ddb2af84c315ba2088a0f5ccae0d67b2f264dabbeaf7ac83a520"
+
+[[files]]
+file = "config/pal.properties"
+hash = "8fa2a6a6a9f1984173294ebbc705fd3372fb14a2c0b20f02f92a86d23f54856a"
+
+[[files]]
+file = "config/repurposed_structures.json"
+hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
+
+[[files]]
+file = "config/roguelike-dungeons.json"
+hash = "5f79a02dba20d5bdddf7a609ffbee6dbad7e6f6edf6e37773d122cc9d168683a"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "6836037bb3795f6b36892478b51f1d6e69fed3ba05e330f16e4a02c08eb2b9d8"
+
+[[files]]
+file = "config/servercore/optimizations.yml"
+hash = "f6a4950e02e2e2aac4525c924b22500282fc27996d4385de466ab34ff8d6dcd6"
+
+[[files]]
+file = "config/sessility.properties"
+hash = "c807ddabf3c7c00e5527913e67e5e108dbc49f05dcefe49dd4a2f9cb09b8918a"
+
+[[files]]
+file = "config/skinrestorer/config.json"
+hash = "c2a6f0aa2cd759cb28567101112317106ad89a850291d1b91021d22a52fea062"
+
+[[files]]
+file = "config/skinrestorer/mojang_profile_cache.json"
+hash = "783895571a1d883a4b1f2581bf4e32a87f3ce999abea0a8882d7f9c37c2349c3"
+
+[[files]]
+file = "config/slumber.properties"
+hash = "d59f744be80a961dd278ca6dee57e0e613c211c301078a632126bb15e92cf6fb"
+
+[[files]]
+file = "config/spark/config.json"
+hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+
+[[files]]
+file = "config/spark/tmp/about.txt"
+hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
+
+[[files]]
+file = "config/spark/tmp/spark-5874db07b8b-libasyncProfiler.so.tmp"
+hash = "8d16556469adc3fe6661f0c023bfc2081342c930796b1d68ae1cd8248bef4c28"
+
+[[files]]
+file = "config/spark/tmp/spark-62ef86ca908-profile-data.jfr.tmp"
+hash = "d2772190d698423d322bf83eeb18653031b8016a157bb7c27b2031eddf584aac"
+
+[[files]]
+file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
+hash = "7c70e7df82d014a87dcb2defcf45d9654a22362283c7efe1f81f3b3c04290709"
+
+[[files]]
+file = "config/towns_and_towers/structure_rarity_new.json5"
+hash = "fe4ca0974aca38b27c94e3f1dc092f1688b54f27d9eaa728d61c6ccae4ca1313"
+
+[[files]]
+file = "config/tt20/block_entity_mask.json"
+hash = "ff334879cf2146f183ff4dd34dd8ef7860165e9f5bb1298689376ac95756a93b"
+
+[[files]]
+file = "config/tt20/config.json"
+hash = "e21f243cce683da823b2da20aca16d198839022a39851f34e7ee942220a29629"
+
+[[files]]
+file = "config/vanilla_structures/placement_structure_config.json5"
+hash = "1f069468e438ae66f65ee41732603c895741b063add626a9e56ef7d0040ac4e6"
+
+[[files]]
+file = "config/vanilla_structures/toggle_structure_config.json5"
+hash = "c4fb220488de3c1afc569f4b8a89d8e97f8b5504eeb59d9700b491f29718d2f9"
+
+[[files]]
+file = "config/vanish.hocon"
+hash = "9c0b64cbbde6c701fec60574bfe5c0b43e2c42da8e962309a1b42a528736dd92"
+
+[[files]]
+file = "config/veinminer/update/veinminer-fabric-2.5.0.jar"
+hash = "d773db9b18137ccf9691086dee1b07ae410899781378152978a39c1ad13f70e2"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "def78e967da3a247092839a5007405318bb141ea3c26a7e6f5ac2b4a5ac2f71c"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "c25b146950f12f37975dd18f69c745f359422c4147c1db80c4903d3e267d5b35"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
@@ -27,6 +579,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "1962cda76b2ef0e81ff943c68488e21f01b8a8317c01ae2a2b544fbc6fafdf99"
 metafile = true
 
 [[files]]
@@ -67,6 +624,11 @@ metafile = true
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "1128e1194453ee08fd9cad27630786f0bc18d99fb3b5e1e5f87714d7c1fe489a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b18fd738985200a2ade1dcf59f5ca08cbd27bef72a09846bdf483b231df16cd6"
 metafile = true
 
 [[files]]
@@ -135,13 +697,13 @@ hash = "593e4347238a1f38c97a7b28c0b1b48b358a43ba5be2282dfa41b6cf66debb48"
 metafile = true
 
 [[files]]
-file = "mods/get-it-together-drops.pw.toml"
-hash = "8bb5b5695810c5f5eb27a4e1890db7492ec4ad0c6efe95e713f694aa017e640d"
+file = "mods/geyser.pw.toml"
+hash = "2b6bf4bb986325e04b07089ffcbbcc814fe503ddf45dd126b336a32b170eacd0"
 metafile = true
 
 [[files]]
-file = "mods/geyser.pw.toml"
-hash = "2b6bf4bb986325e04b07089ffcbbcc814fe503ddf45dd126b336a32b170eacd0"
+file = "mods/incendium.pw.toml"
+hash = "c85d73cc859ddcaab3cf7bf11c5659741f3cca82b5df4244fa319eb4c29eaa74"
 metafile = true
 
 [[files]]
@@ -175,6 +737,21 @@ hash = "ceadd493611f2ba6e1fd0d323db2200d7dfe99930631c3eda91279e7493e609e"
 metafile = true
 
 [[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "37e37d378573a64b1f00b81f7bf96071a053a387d70da2e29471315e98a029c7"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "c330548873af7f8714c9688caed3f60d8afbb31ef0bddc78d051932e6cbbd7d0"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "383098e1c971e33f71aeb2b6907d8734f4b42db4e6a26aec51166e232c33b153"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "70d7b2bca719eca2b3a1447228b868abdc633c38121652d49f4e34380c44339d"
 metafile = true
@@ -197,6 +774,16 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "eb2a2a775e6c92eeb650160b31b3957a87c28d5a2305820f108cef35ef813866"
+metafile = true
+
+[[files]]
+file = "mods/roguelikedungeons.pw.toml"
+hash = "d150d8ad2299b931fc50226dbdce8860eeafa94cb75dc4a5cdd51e653b695280"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
 
 [[files]]
@@ -245,6 +832,11 @@ hash = "e9302f39fb02c0a1f88893785d54b08e41a17c9fb3e39c29c3794e7ed7f86bad"
 metafile = true
 
 [[files]]
+file = "mods/tt20.pw.toml"
+hash = "d039768c39de4e27eb317c590dc65e16b5c9afddd402089227617a03f58a9db4"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-permissions.pw.toml"
 hash = "dd27fa8950077843a03363fd36ef344bb11ca9759c44a4f3f281678cb5da688e"
 metafile = true
@@ -267,6 +859,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "90df8d95fcd836373dd1b26dd8f3fbc6ca8ac55f797e09562796aa0aeb0576c0"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-seven-seas.pw.toml"
+hash = "12c49cc4e3c338e2a34f287a878a59aec5468823d6e9aa09470af3d14bd2482c"
 metafile = true
 
 [[files]]

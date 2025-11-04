@@ -1,4 +1,4 @@
-name = "FCP+"
+name = "FCP - Fabric Cross Play PLUS"
 author = "GG45(gabriel)"
 version = "0.0.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0fdec1fb46ade7b0f8b9d3265b11ba532378ada7f5ee98b25cae768be6096e64"
+hash = "0656c843c65148a6afefc122980d796a4f75627998cf073aa434fc89e598ad86"
 
 [versions]
 fabric = "0.17.3"

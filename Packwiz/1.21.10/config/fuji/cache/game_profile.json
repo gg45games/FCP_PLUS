@@ -1,0 +1,18 @@
+{
+  "cache_map": {
+    "GG45": {
+      "value": {
+        "id": "61475d55-8fe4-34fc-9204-7ec84174b005",
+        "name": "GG45",
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc2MjIzMTE1ODE2NiwKICAicHJvZmlsZUlkIiA6ICI1NTVhOTExY2VmOTk0MTczOGQxNjAwNjdiY2RhY2Q0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHRzQ1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE3MDczNzdiMmZkMjA4MjM1NzBhNGY5MTVmMzlkNzQ5YWM3OTAzZjJiMGQ4NjlhY2IxNTQzY2E0YjBkNGIyZjQiCiAgICB9LAogICAgIkNBUEUiIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU2YzM1NjI4ZmUxYzRkNTlkZDUyNTYxYTNkMDNiZmE0ZTFhNzZkMzk3YzhiOWM0NzZjMmY3N2NiNmFlYmIxZGYiCiAgICB9CiAgfQp9",
+            "signature": "mxGf3SkKS2EOsUeAXCDefUt5eEbW7R1yaoQj4WeKYeaXYyDfyjOsdEZ7pAV7IR+C64tsq0nRa8cVUWQM2A98cRPoY8zXYO6Xrwuike6N60vJpfHpSspIQUnc82wd2cMt7z3yzn54QUxuau2j4RdrYaynCxq/g4OmKvbRt5p6gBsbANuDDxSA4vZgK+17UodLYgTzTThgWfR2bTOURHSmPoVXz6LHBxQR0AG4rMlYIFMoN97cKFSfzi9aPgT0GoRCGdWcBjVK87uZxifha/mppGmNI7vcKYPFn75xDj7SJO6jINFkKwmGI+7vG6UT08y4M+ewCbEahvIECHBZyT8wEt/wL7fzSKWpm09fctuV4l8wpfQTFgxHPYINaLPluhiMW6C2COBGyfjfzCQfgAamTx6PN54AbF5pWqxUiFlpeIHAKUl4WAXb98W+TaeSoK/u30umKQJsAtlepKTpAodu+Z7vRCmOYIvYybk4HiYVLyUd8uikM+tjoUBMOzX/aXW5RW+tVuPTJMeqojXfWec+bIRdoTeqPmi7JejQj3tdwTMw5UKT1RYmNtfssG3dtEC2dHXH3bZPLr1OOptoyPOeaIe+cv7uJmkjK18DM6+zAc2Aw5cYdXVbAn/nOgliKGtqXaj88CCG3tascnv30lRl/yW1GzbytxkCgnyAK7M1P94="
+          }
+        ]
+      },
+      "updated_timestamp": 1762231161381
+    }
+  }
+}
