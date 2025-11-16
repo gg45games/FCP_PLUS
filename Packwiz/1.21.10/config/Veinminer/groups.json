@@ -5,7 +5,7 @@
             "#c:ores"
         ],
         "tools": [
-            "#minecraft:pickaxes"
+            "#minecraft:pickaxes",
             "#minecraft:axes"
         ]
     }

@@ -130,7 +130,7 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/Veinminer/groups.json"
-hash = "2ef3a844e812dbb770eeb141adf312f652e79fb2d9fbb131b95bd7b3798ef7c8"
+hash = "f9799a9b9ad4df555ba41a4bd3b2102579583543b7a894666e0e9676dcd15727"
 
 [[files]]
 file = "config/Veinminer/settings.json"
