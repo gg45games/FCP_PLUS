@@ -130,11 +130,11 @@ hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
 file = "config/Veinminer/groups.json"
-hash = "5ac0560aae1f266d897ceec6ad08b79ca2d5d22d95efd17377c8026ac246048f"
+hash = "2ef3a844e812dbb770eeb141adf312f652e79fb2d9fbb131b95bd7b3798ef7c8"
 
 [[files]]
 file = "config/Veinminer/settings.json"
-hash = "74a35fe70a4359bd3a832d5516239d0377c51555297c4f4347ca13fd10de7a76"
+hash = "32667c1164bf67d3e53b35b839d0d601e30e9c394ed540dbe3b9e3d891b738ed"
 
 [[files]]
 file = "config/almanac-nbtFix.json5"
@@ -522,7 +522,7 @@ hash = "7c70e7df82d014a87dcb2defcf45d9654a22362283c7efe1f81f3b3c04290709"
 
 [[files]]
 file = "config/towns_and_towers/structure_rarity_new.json5"
-hash = "fe4ca0974aca38b27c94e3f1dc092f1688b54f27d9eaa728d61c6ccae4ca1313"
+hash = "8d1a239fbcbfdb10b26a2c90a0fd3ae1b332771e86caac094547aa01ab7cf5ee"
 
 [[files]]
 file = "config/tt20/block_entity_mask.json"
@@ -534,7 +534,7 @@ hash = "e21f243cce683da823b2da20aca16d198839022a39851f34e7ee942220a29629"
 
 [[files]]
 file = "config/vanilla_structures/placement_structure_config.json5"
-hash = "1f069468e438ae66f65ee41732603c895741b063add626a9e56ef7d0040ac4e6"
+hash = "bd30064e5e9a51d9122d5005fb0c4535f9a19f1531c5502bc6e5fcd1d10a58cf"
 
 [[files]]
 file = "config/vanilla_structures/toggle_structure_config.json5"
@@ -583,7 +583,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1962cda76b2ef0e81ff943c68488e21f01b8a8317c01ae2a2b544fbc6fafdf99"
+hash = "4ee1808a7fb319d469dece5752cedb05dacb9afbe48021fa664f54b8c83fdc45"
 metafile = true
 
 [[files]]
@@ -623,12 +623,12 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "1128e1194453ee08fd9cad27630786f0bc18d99fb3b5e1e5f87714d7c1fe489a"
+hash = "7729471ebdb95fdb0b78b18ffc811c34bdabbbced3c8dfffd96c7269f9428fcc"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "b18fd738985200a2ade1dcf59f5ca08cbd27bef72a09846bdf483b231df16cd6"
+hash = "a5a946d6b3cbb7bfc975ce0a7faf9b75e1fedd47b4c6135bbc352bbaf97b40ab"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "336bea7fbe2bbbae3875ac59dbc0d11a7f1eb247a5f23e951c136bcd952a6086"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "9a8c273d0efcf679d04d77ab37521c05978caff642a6c2b867d2fa2cdc8b168e"
+hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
 metafile = true
 
 [[files]]
@@ -693,12 +693,12 @@ metafile = true
 
 [[files]]
 file = "mods/fuji.pw.toml"
-hash = "593e4347238a1f38c97a7b28c0b1b48b358a43ba5be2282dfa41b6cf66debb48"
+hash = "2f54900f945ec85e7647cb04f052daab7bb63ffbac9310b176e95d999a1be90e"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "2b6bf4bb986325e04b07089ffcbbcc814fe503ddf45dd126b336a32b170eacd0"
+hash = "0b33d81c99456361d3ffa54bed5c1cd67b10d13c279a400313c17a0b086478d2"
 metafile = true
 
 [[files]]
@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
@@ -738,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "37e37d378573a64b1f00b81f7bf96071a053a387d70da2e29471315e98a029c7"
+hash = "bee01d4388fcc23be892c81a5eff5b7bbf50e846a6d7088397a7a818ad459a0c"
 metafile = true
 
 [[files]]
@@ -768,7 +768,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6563af8f8937ede110303ee1437499892061d824182139a92e7a1fd6eac168d7"
+hash = "4345889c03219d385b9f1ebad4cb7f19e017575b1a2097f0be32265cee148548"
 metafile = true
 
 [[files]]
@@ -858,7 +858,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "90df8d95fcd836373dd1b26dd8f3fbc6ca8ac55f797e09562796aa0aeb0576c0"
+hash = "1750b72e8ece77b5676ed18ffce81d0fd4df89e8bbde63ef8cc328df87bb9277"
 metafile = true
 
 [[files]]

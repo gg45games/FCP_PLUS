@@ -8,86 +8,86 @@ KEEP IN MIND THAT SPACING ALWAYS NEEDS TO BE HIGHER THAN SEPARATION.
 Created by Cristel Lib
 */
 {
-	"ancient_cities": {
-		"salt": 20083232,
-		"separation": 8,
-		"spacing": 24
-	},
-	"buried_treasures": {
-		"frequency": 0.01,
-		"salt": 0,
-		"separation": 0,
-		"spacing": 1
-	},
-	"desert_pyramids": {
-		"salt": 14357617,
-		"separation": 8,
-		"spacing": 32
-	},
-	"end_cities": {
-		"salt": 10387313,
-		"separation": 11,
-		"spacing": 20
-	},
-	"igloos": {
-		"salt": 14357618,
-		"separation": 8,
-		"spacing": 32
-	},
-	"jungle_temples": {
-		"salt": 14357619,
-		"separation": 8,
-		"spacing": 32
-	},
-	"nether_complexes": {
-		"salt": 30084232,
-		"separation": 4,
-		"spacing": 27
-	},
-	"nether_fossils": {
-		"salt": 14357921,
-		"separation": 1,
-		"spacing": 2
-	},
-	"ocean_monuments": {
-		"salt": 10387313,
-		"separation": 5,
-		"spacing": 32
-	},
-	"ocean_ruins": {
-		"salt": 14357621,
-		"separation": 8,
-		"spacing": 20
-	},
-	"pillager_outposts": {
-		"frequency": 0.2,
-		"salt": 165745296,
-		"separation": 8,
-		"spacing": 32
-	},
-	"ruined_portals": {
-		"salt": 34222645,
-		"separation": 15,
-		"spacing": 40
-	},
-	"shipwrecks": {
-		"salt": 165745295,
-		"separation": 4,
-		"spacing": 24
-	},
-	"swamp_huts": {
-		"salt": 14357620,
-		"separation": 8,
-		"spacing": 32
-	},
-	"villages": {
-		"salt": 10387312,
-		"separation": 8,
-		"spacing": 34
-	},
-	"woodland_mansions": {
-		"salt": 10387319,
-		"separation": 20,
-		"spacing": 80
-	}
+    "ancient_cities": {
+        "salt": 20083232,
+        "separation": 16,
+        "spacing": 48
+    },
+    "buried_treasures": {
+        "frequency": 0.005,
+        "salt": 0,
+        "separation": 0,
+        "spacing": 2
+    },
+    "desert_pyramids": {
+        "salt": 14357617,
+        "separation": 16,
+        "spacing": 64
+    },
+    "end_cities": {
+        "salt": 10387313,
+        "separation": 22,
+        "spacing": 40
+    },
+    "igloos": {
+        "salt": 14357618,
+        "separation": 16,
+        "spacing": 64
+    },
+    "jungle_temples": {
+        "salt": 14357619,
+        "separation": 16,
+        "spacing": 64
+    },
+    "nether_complexes": {
+        "salt": 30084232,
+        "separation": 8,
+        "spacing": 54
+    },
+    "nether_fossils": {
+        "salt": 14357921,
+        "separation": 2,
+        "spacing": 4
+    },
+    "ocean_monuments": {
+        "salt": 10387313,
+        "separation": 10,
+        "spacing": 64
+    },
+    "ocean_ruins": {
+        "salt": 14357621,
+        "separation": 16,
+        "spacing": 40
+    },
+    "pillager_outposts": {
+        "frequency": 0.1,
+        "salt": 165745296,
+        "separation": 16,
+        "spacing": 64
+    },
+    "ruined_portals": {
+        "salt": 34222645,
+        "separation": 30,
+        "spacing": 80
+    },
+    "shipwrecks": {
+        "salt": 165745295,
+        "separation": 8,
+        "spacing": 48
+    },
+    "swamp_huts": {
+        "salt": 14357620,
+        "separation": 16,
+        "spacing": 64
+    },
+    "villages": {
+        "salt": 10387312,
+        "separation": 16,
+        "spacing": 68
+    },
+    "woodland_mansions": {
+        "salt": 10387319,
+        "separation": 40,
+        "spacing": 160
+    }
 }

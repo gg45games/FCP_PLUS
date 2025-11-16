@@ -6,6 +6,7 @@
         ],
         "tools": [
             "#minecraft:pickaxes"
+            "#minecraft:axes"
         ]
     }
 ]
